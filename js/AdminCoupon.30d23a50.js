@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["AdminCoupon"],{b8c6:function(n,e,c){"use strict";c.r(e);var o=c("7a23");function t(n,e){return Object(o["openBlock"])(),Object(o["createElementBlock"])("h2",null,"後台優惠卷")}var r=c("6b0d"),u=c.n(r);const a={},p=u()(a,[["render",t]]);e["default"]=p}}]);
+//# sourceMappingURL=AdminCoupon.30d23a50.js.map
